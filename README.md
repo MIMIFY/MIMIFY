@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning as a Phd. candidate at Beijing Jiaotong University, China. 
+- 👯 I’m looking to collaborate on text generation, especially on story generation task.
+- 📫 How to reach me: 21112027@bjtu.edu.cn
 <!--
 **MIMIFY/MIMIFY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
