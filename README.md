@@ -3,7 +3,7 @@
 - 🔭 My research interests include **automatic story generation**, **role-playing language agents**, and **conversational AI for mental health interventions**. 
 - 👯 I’m looking forward to collaborating on **LLMs-based applications** and **interactive dialogue systems** for education and therapy.  
 - 📫 How to reach me: yifeng@bjtu.edu.cn
-- 😄 Pronouns: He/Him  
+- 😄 Pronouns: She/Her  
 - ⚡ Fun fact: I’m passionate about exploring how AI can empower neurodiverse populations and support psychological well-being through innovative NLP solutions.  
 
 ✨ Let’s connect and create meaningful AI-driven stories together! ✨
