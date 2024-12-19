@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🌱 I’m currently learning as a Phd. candidate at Beijing Jiaotong University, China, focusing on natural language processing (NLP), especially on story generation and conversational agents for mental health. 
 - 🔭 My research interests include **automatic story generation**, **role-playing language agents**, and **conversational AI for mental health interventions**. 
-- 👯 I’m looking forward to collaborating on **LLMs-based applications**, **narrative therapy frameworks**, and **interactive dialogue systems** for education and therapy.  
+- 👯 I’m looking forward to collaborating on **LLMs-based applications** and **interactive dialogue systems** for education and therapy.  
 - 📫 How to reach me: yifeng@bjtu.edu.cn
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I’m passionate about exploring how AI can empower neurodiverse populations and support psychological well-being through innovative NLP solutions.  
