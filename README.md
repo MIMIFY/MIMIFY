@@ -1,7 +1,12 @@
 ### Hi there 👋
-- 🌱 I’m currently learning as a Phd. candidate at Beijing Jiaotong University, China. 
-- 👯 I’m looking to collaborate on text generation, especially on story generation task. Besides, I'm very interested in Role-Playing Language Agents.
+- 🌱 I’m currently learning as a Phd. candidate at Beijing Jiaotong University, China, focusing on natural language processing (NLP), especially on story generation and conversational agents for mental health. 
+- 🔭 My research interests include **automatic story generation**, **role-playing language agents**, and **conversational AI for mental health interventions**. 
+- 👯 I’m looking forward to collaborating on **LLMs-based applications**, **narrative therapy frameworks**, and **interactive dialogue systems** for education and therapy.  
 - 📫 How to reach me: yifeng@bjtu.edu.cn
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I’m passionate about exploring how AI can empower neurodiverse populations and support psychological well-being through innovative NLP solutions.  
+
+✨ Let’s connect and create meaningful AI-driven stories together! ✨
 <!--
 **MIMIFY/MIMIFY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
