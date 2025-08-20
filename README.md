@@ -7,6 +7,8 @@
 - ⚡ Fun fact: I’m passionate about exploring how AI can empower neurodiverse populations and support psychological well-being through innovative NLP solutions.  
 
 ✨ Let’s connect and create meaningful AI-driven stories together! ✨
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MIMIFY&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **MIMIFY/MIMIFY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
