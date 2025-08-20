@@ -8,8 +8,14 @@
 
 ✨ Let’s connect and create meaningful AI-driven stories together! ✨
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MIMIFY&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MIMIFY&theme=vue&show_icons=true)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIMIFY&layout=donut" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MIMIFY&theme=vue&show_icons=true&include_all_commits=true&count_private=true" />
+</a>
+
 <!--
 **MIMIFY/MIMIFY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
